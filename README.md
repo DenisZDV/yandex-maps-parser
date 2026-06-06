@@ -73,6 +73,6 @@ Python · Selenium · BeautifulSoup4 · Pandas · Requests · Pytesseract
 
 ---
 
-<img width="667" height="447" alt="image" src="https://github.com/user-attachments/assets/ec8fd1a2-cfab-4de0-8e7f-f8ede8371efb" />
+<img width="517" height="447" alt="image" src="https://github.com/user-attachments/assets/de62869a-ea1c-4b2b-a0e9-f8f7d8c1ac4f" />
 
 *Part of [DenisZDV](https://github.com/DenisZDV) automation toolkit*
